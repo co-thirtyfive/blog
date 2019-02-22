@@ -1,0 +1,53 @@
+baseURL = "https://co-thirtyfive.github.io/"
+languageCode = "ja-jp"
+googleAnalytics = "UA-134682436-1"
+weight = 1
+title = "ThirtyFive BLOG"
+publishDir = "public"
+theme= "hugo-bootstrap-premium"
+hasCJKLanguage = true
+paginate = 10
+paginatePath = "page"
+disqusShortname = "co-thirtyfive-github-io"
+
+[permalinks]
+    post = "/:year/:month/:day/:filename/"
+    code = "/:filename/"
+
+[author]
+    name = "Co.ThirtyFive"
+    email = "corporation.thirtyfive@gmail.com"
+
+[params.theme]
+    name = "yeti"
+
+[params]
+    BrandImage = ""
+    brand = "Co.ThirtyFive"
+    topline = "memo"
+    footline = "Copyright&copy; <a href='/about/'>Co.ThirtyFive</a>"
+    showRightSidebar = true
+    highlight = "default"
+    twitter  = "Co_thirtyfive"
+    github   = "co-thirtyfive"
+
+[[menu.main]]
+    name = "Home"
+    identifier = "home"
+    url = "/"
+    weight = -200
+    pre = "<i class='fa fa-home'></i>"
+
+[[menu.main]]
+    name = "Archives"
+    identifier = "archives"
+    url = "/post/"
+    weight = -180
+    pre = "<i class='fa fa-archive'></i>"
+
+[[menu.main]]
+    name = "About"
+    identifier = ""
+    url = "/about/"
+    weight = -100
+    pre = "<i class='fa fa-info-circle'></i>"
