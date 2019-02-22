@@ -15,7 +15,7 @@ Mac
 
 必要なステップは以下のものです。
 
-[GitHubアカウントの作成](https://co-thirtyfive.github.io/2019/02/17/github-account-get/)
+[GitHubアカウントの作成](https://co-thirtyfive.github.io/2019/02/23/github_account_get/)
 
 ---
 
@@ -45,7 +45,7 @@ GitHubでリポジトリを作成します。
 
 ## 1 HUGOのインストール
 
-まずは[Homebrew](https://co-thirtyfive.github.io/2019/02/18/homebrew/)でインストール作業に入ります。  
+まずは[Homebrew](https://co-thirtyfive.github.io/2019/02/23/homebrew_install/)でインストール作業に入ります。  
 ※もし ` Homebrew ` をインストールされていない方は上記のリンク先にインストール方法を書いていますので  
 インストールしてください。  
 <br>

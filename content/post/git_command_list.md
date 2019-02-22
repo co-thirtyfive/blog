@@ -363,7 +363,7 @@ pick {コミットID} {コミットメッセージ} ※ 1件目(最新コミッ�
 ```
 <br>
 
-[Vimコマンド一覧](https://co-thirtyfive.github.io/2019/02/23/vim-command-list/)
+[Vimコマンド一覧](https://co-thirtyfive.github.io/2019/02/23/vim_command_list/)
 
 <br>
 
